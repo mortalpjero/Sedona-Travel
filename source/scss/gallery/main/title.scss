@@ -121,6 +121,11 @@
   width: 100%;
 }
 
+.review__welcoming__svg {
+  width: 229px;
+  height: 39px;
+}
+
 
 @media screen and (min-width: $midScreen) {
   .gallery__title {
@@ -201,6 +206,10 @@
     margin-left: 60px;
   }
 
+  .review__welcoming__svg {
+    width: 460px;
+    height: 77.6px;
+  }
 }
 
 @media screen and (min-width: $pcScreen) {
